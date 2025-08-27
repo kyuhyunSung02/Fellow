@@ -25,9 +25,9 @@
 캐릭터와의 상호작용을 통해 일상 속 위로움을 해소합니다.
 
 ## 🍀 개발팀
-| 성규현 [@dmp100](https://github.com/dmp100) | koyy418 [@koyy418](https://github.com/koyy418) |
+| 성규현 <br> [@KyuHyeon Sung](https://github.com/kyuhyunSung02) <br> [@dmp100](https://github.com/dmp100) | 고윤영 <br> [@koyy418](https://github.com/koyy418) |
 |:---:|:---:|
-| <img width="150" src="https://github.com/user-attachments/assets/daa04602-4d2d-456e-a11b-0c97509ea0c1"/> | <img width="150" src="https://github.com/user-attachments/assets/2a1be6cb-1b76-4663-bc7a-18986d9a2166"/> |
+| <img height="150" src="https://github.com/user-attachments/assets/0a18a502-fdc0-4a67-be76-04815066f668"/> | <img height="150" src="https://github.com/user-attachments/assets/2a1be6cb-1b76-4663-bc7a-18986d9a2166"/> |
 | **Lead Developer & AI Integration** | **Co-Developer & System Design** |
 | Unity 6.0, OpenAI API, Live2D | Unity, Game Logic, UI/UX |
 
